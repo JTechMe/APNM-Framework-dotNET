@@ -30,7 +30,7 @@ The different permissions you can grant your application are as follows;
 +APNM_SETTINGS+
 ````
 FAMEWORK_USE is a required permission by the APNM-Framework. INTERNET_ACCESS and PROJECT_DIR are recommended permissions for apps that utilize internet access or cache files. LOCAL_FILES is only to be used if your app can access files on the local machine outside your project's folder. JG_SETTINGS is a permission that the user must grant manually because it grants the ability to change the settings of the JumpGo browser. APNM_SETTINGS is not a permission for use by 3rd party apps because it grants the ability to alter the APNM-Framework settings and files.
-The next 3 lines are for comments again;
+You cannot end the ```` !permissions! ```` until the 21st line. Now the 3 lines after that are comments again;
 ````
 ~The icon file is always referenced on line 26
 ~The default icon name is "icon.ico" but can be changed to any other *.ico file.
@@ -48,3 +48,4 @@ The next line is again for use as a comment; ```` ~Now call your "index.html" fi
 index.html
 }
 ````
+That is how you format the project.apnm manifest file.
