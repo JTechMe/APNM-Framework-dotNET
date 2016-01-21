@@ -25,3 +25,7 @@ com.jtechme.apnmframework
 <iconfile>{
 icon.ico
 }
+~Now call your "index.html" file
+<index>{
+index.html
+}
