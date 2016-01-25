@@ -1,5 +1,5 @@
 # APNM-Framework
-The AppProjectNameManifest framework for use in the JumpGo Desktop browser
+The AppPluginNameManifest framework for use in the JumpGo Desktop browser
 ## Use of the APNM-Framework
 The APNM-Framework is designed for use in the JumpGo Desktop Applicaiton. JumpGo for Windows is a .NET application and as such the APNM-Framework is writen in VB.NET but can be migrated to other .NET lanuages.
 ## Developing in APNM
