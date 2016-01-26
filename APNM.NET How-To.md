@@ -58,7 +58,7 @@ These are all the stable commands but more are available. To access them just pl
 ```
 Copyright 2015 Josiah Horton
 
-JumpGo Browser
+APNM Framework
 
    This Source Code Form is subject to the terms of the 
    General Open Control License, v. 1.0. If a copy of the GOC 
