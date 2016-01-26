@@ -1,4 +1,4 @@
 language: csharp
-solution: APNM FrameWork CL.sln
+solution: /APNM.NET/APNM_FrameWork_CL.sln
 mono:
   - latest
