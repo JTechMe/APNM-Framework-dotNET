@@ -53,7 +53,7 @@ That is how you format the project.apnm manifest file.
 ```
 Copyright 2015 Josiah Horton
 
-JumpGo Browser
+APNM Framework
 
    This Source Code Form is subject to the terms of the 
    General Open Control License, v. 1.0. If a copy of the GOC 
