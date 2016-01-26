@@ -49,4 +49,20 @@ The important file here is the 'APNM FrameWork CL.dll'. Now you've succesfully b
 At this point either you've built the DLL own your local machine or you've skipped straight to the good part!
 To use the APNM.NET Framework in your .NET application you first must understand what this framework does. For this I refer you to the [README.md](https://github.com/JTechMe/APNM-Framework/blob/master/README.md) at the project's root.
 Now that you understand what the pupose of this framework is you need to know the basics of using it in your project.
-First, you need to add a reference to the framework in your project. Next, open your ToolBox and right-click, select Choose Items, click Browse and select the DLL. Now you need to add the code!
+First, you need to add a reference to the framework in your project.
+Next, open your ToolBox and right-click, select Choose Items, click Browse and select the DLL.
+Now you need to add the code! The available (stable) commands are:
+* ```APNM.AppPluginModule.OpenSelector```
+* ```APNM.AppRoot =``` can be altered to equal a set directory such as the project forlder
+These are all the stable commands but more are available. To access them just play around with the ```APNM.``` reference and you'll find them. I will be adding more features soon, for a full list please refer to the [README.md](https://github.com/JTechMe/APNM-Framework/blob/master/README.md)
+```
+Copyright 2015 Josiah Horton
+
+JumpGo Browser
+
+   This Source Code Form is subject to the terms of the 
+   General Open Control License, v. 1.0. If a copy of the GOC 
+   was not distributed with this file, You can obtain one at 
+
+   https://github.com/JTechMe/GOC-General-Open-Control-Licence-v1.0/
+```
