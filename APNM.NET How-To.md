@@ -53,7 +53,9 @@ First, you need to add a reference to the framework in your project.
 Next, open your ToolBox and right-click, select Choose Items, click Browse and select the DLL.
 Now you need to add the code! The available (stable) commands are:
 * ```APNM.AppPluginModule.OpenSelector```
-* ```APNM.AppRoot =``` can be altered to equal a set directory such as the project forlder
+* ```APNM.AppRoot =``` can be altered to equal a set directory such as the project forlder (an example is ```APNM.AppRoot = Environment.CurrentDirectory```)
+* ```APNM.AppPluginModule.OpenSelectionForm()```
+
 These are all the stable commands but more are available. To access them just play around with the ```APNM.``` reference and you'll find them. I will be adding more features soon, for a full list please refer to the [README.md](https://github.com/JTechMe/APNM-Framework/blob/master/README.md)
 ```
 Copyright 2015 Josiah Horton
