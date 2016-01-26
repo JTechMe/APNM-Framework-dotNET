@@ -69,6 +69,12 @@
   <ItemGroup>
     <Compile Include="APNMThings.vb" />
     <Compile Include="AppPluginModule.vb" />
+    <Compile Include="AppSelectionForm.Designer.vb">
+      <DependentUpon>AppSelectionForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AppSelectionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="AppSelectionTool.Designer.vb">
       <DependentUpon>AppSelectionTool.vb</DependentUpon>
     </Compile>
@@ -94,6 +100,12 @@
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Class1.vb" />
+    <Compile Include="ExtentionsToolStrip.Designer.vb">
+      <DependentUpon>ExtentionsToolStrip.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExtentionsToolStrip.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -117,6 +129,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="AppSelectionForm.resx">
+      <DependentUpon>AppSelectionForm.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="AppSelectionTool.resx">
       <DependentUpon>AppSelectionTool.vb</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +143,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="AppWBandN.resx">
       <DependentUpon>AppWBandN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExtentionsToolStrip.resx">
+      <DependentUpon>ExtentionsToolStrip.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

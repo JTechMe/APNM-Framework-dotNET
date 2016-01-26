@@ -3,7 +3,7 @@ Imports System.IO
 Imports System.Windows.Forms
 Imports System.Drawing
 
-Public Class AppSelectionTool
+Public Class AppSelectionForm
 
     'Dim directories() As String = Directory.GetDirectories("C:\")
     Dim directories() As String = Directory.GetDirectories(Environment.CurrentDirectory + "\AppProjects")
@@ -51,14 +51,14 @@ Public Class AppSelectionTool
         Dim f As String
 
         Try
-                For Each d In Directory.GetDirectories(Environment.CurrentDirectory + "\AppProjects")
-                    'For Each f In Directory.GetFiles(d, txtFile.Text)
-                    For Each f In Directory.GetFiles(d, APNMFileType.Text)
-                        'lstFilesFound.Items.Add(f)
+            For Each d In Directory.GetDirectories(Environment.CurrentDirectory + "\AppProjects")
+                'For Each f In Directory.GetFiles(d, txtFile.Text)
+                For Each f In Directory.GetFiles(d, APNMFileType.Text)
+                    'lstFilesFound.Items.Add(f)
                     ListView1.Items.Add(f).ToolTipText = APNMFileType
-                    Next
-                    DirSearch(d)
                 Next
+                DirSearch(d)
+            Next
         Catch excpt As System.Exception
             Debug.WriteLine(excpt.Message)
         End Try
@@ -159,7 +159,7 @@ Public Class AppSelectionTool
             allLines.Add(reader.ReadLine())
         Loop
         reader.Close()
-        Me.Text = ReadLine(5, allLines) + " - AppBuilder"
+        'Me.Text = ReadLine(5, allLines) + " - AppBuilder"
         ProjName = ReadLine(5, allLines)
         APNMName = ReadLine(6, allLines)
         ProjectVersion = ReadLine(7, allLines)

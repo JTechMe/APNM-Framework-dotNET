@@ -1,4 +1,5 @@
-﻿Imports System.IO
+﻿'copyright(c) 2016 Josiah Horton
+Imports System.IO
 Imports System.Windows.Forms
 Imports System.Drawing
 
@@ -149,7 +150,7 @@ Public Class AppSelectionTree
             allLines.Add(reader.ReadLine())
         Loop
         reader.Close()
-        Me.Text = ReadLine(5, allLines) + " - AppBuilder"
+        'Me.Text = ReadLine(5, allLines) + " - AppBuilder"
         ProjName = ReadLine(5, allLines)
         APNMName = ReadLine(6, allLines)
         ProjectVersion = ReadLine(7, allLines)

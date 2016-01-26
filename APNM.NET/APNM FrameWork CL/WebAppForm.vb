@@ -1,4 +1,5 @@
-﻿Imports System.IO
+﻿'copyright(c) 2016 Josiah Horton
+Imports System.IO
 
 Public Class WebAppForm
 

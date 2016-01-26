@@ -11,3 +11,5 @@ c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM
 c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppWBandN.resources
 c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.Resources.resources
 c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.WebAppForm.resources
+C:\Users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppSelectionForm.resources
+C:\Users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.ExtentionsToolStrip.resources
