@@ -1,0 +1,13 @@
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\bin\Debug\APNM FrameWork CL.dll
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\bin\Debug\APNM FrameWork CL.pdb
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\bin\Debug\APNM FrameWork CL.xml
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM FrameWork CL.vbproj.GenerateResource.Cache
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM FrameWork CL.dll
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM FrameWork CL.xml
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM FrameWork CL.pdb
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppSelectionTool.resources
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppSelectionTree.resources
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppToolStrip.resources
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.AppWBandN.resources
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.Resources.resources
+c:\users\cillacella\documents\visual studio 2012\Projects\APNM FrameWork CL\APNM FrameWork CL\obj\Debug\APNM.WebAppForm.resources
