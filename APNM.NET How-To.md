@@ -1,5 +1,5 @@
 # APNM.NET How-To
-The official instruction guide for Editing, Building and Using the APNM.NET plugin project.
+The official instruction guide for [Editing](https://github.com/JTechMe/APNM-Framework/blob/master/APNM.NET%20How-To.md#editing-the-source), [Building](https://github.com/JTechMe/APNM-Framework/blob/master/APNM.NET%20How-To.md#building-the-source) and [Using](https://github.com/JTechMe/APNM-Framework/blob/master/APNM.NET%20How-To.md#using-apnmnet) the APNM.NET plugin project.
 ## Editing the Source
 ### Prerequisites
 To edit the source code for the APNM.NET Framework you will need the following;
