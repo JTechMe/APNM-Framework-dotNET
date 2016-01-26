@@ -29,6 +29,7 @@ Public Module AppPluginModule
     End Sub
 End Module
 ```
+#![](APNM Development scr1.png)
 Now we're going to add a Public Sub to the code below the OpenSelector Sub.
 ```
 Public Sub MyFirstEdit()
