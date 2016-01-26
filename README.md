@@ -1,4 +1,4 @@
-# APNM-Framework
+# APNM-Framework [![Build Status](https://travis-ci.org/JTechMe/APNM-Framework.svg?branch=master)](https://travis-ci.org/JTechMe/APNM-Framework)
 The AppPluginNameManifest framework for use in the JumpGo Desktop browser
 #![](ic_launcher.png)
 ## Use of the APNM-Framework
