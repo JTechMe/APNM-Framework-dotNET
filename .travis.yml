@@ -1,3 +1,4 @@
 language: csharp
+solution: APNM.NET/APNM_FrameWork_CL.sln
 mono:
   - latest
