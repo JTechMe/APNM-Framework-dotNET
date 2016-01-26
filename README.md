@@ -5,6 +5,7 @@ The APNM-Framework is designed for use in the JumpGo Desktop Applicaiton. JumpGo
 ## Developing in APNM
 JumpGo web app development is in the APNM-Framework using HTML, XML, CSS, JS and APNM files.
 To begin, the development api is provided in the [JumpGo Developer Edition](https://jumpgodev.codeplex.com/) along with app project samples using Google's Material Design.
+The framework itself can be found in the release section of this reposictory.
 ### Creating the Manifest
 The manifest file is the fisrt object that the JumpGo browser will call to open the app. To begin, create your "project.apnm" file in your app project directory. This file is your manifest file. A sample manifest file can be found in this project.
 The first line of your manifest file should contain the APNM version; ```` APNM.project.manifestVersion{1.0.0} ```` The next 3 lines contain comments only;
