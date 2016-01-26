@@ -1,0 +1,4 @@
+language: csharp
+solution: APNM FrameWork CL.sln
+mono:
+  - latest
