@@ -1,0 +1,21 @@
+APNM.project.configVersion{1.0.0}
+~(c)JTechMe 2016
+~The APNM framework is licenced under the General-Open-Control-License-v1.0
+~Do not delete the first 4 lines in this document.
+APNM-Framework
+com.jtechme.apnmframework
+1.0.0
+~This will create the variables required for the APNM premissions
+<var FRAMEWORK_USE>{boolean
++defaultValue+
+}
+<var INTERNET_ACCESS>{boolean
+}
+<var PROJECT_DIR>{boolean
+}
+<var LOCAL_FILES>{boolean
+}
+<var JG_SETTINGS>{boolean
+}
+<var APNM_SETTINGS>{boolean
+}

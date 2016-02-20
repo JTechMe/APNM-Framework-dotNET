@@ -1,0 +1,27 @@
+APNL.project.configVersion{1.0.0}
+~(c)JTechMe 2016
+~The APNM framework is licenced under the General-Open-Control-License-v1.0
+~Do not delete the first 4 lines in this document.
+APNM-Framework
+com.jtechme.apnmframework
+1.0.0
+~This is a required file for APNM
+<var iconfile>{path
+}
+<var index>{path
+}
+<var signingkey>{string
+value = "defkey.keymat"
+}
+<var publisher>{string
+}
+<var pubcom>{string
+}
+<function keyhole>{signingkey as !!read
+<publisher>{
+value = signingkey!line 3
+}
+<pubcom>{
+value = signingkey!line 5
+}
+}
