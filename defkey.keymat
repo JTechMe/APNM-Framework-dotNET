@@ -1,0 +1,11 @@
+APNL.keymat.keyVersion{1.0.0}
+~(c)JTechMe 2016
+~This is a default APNM signing key file that is used to sign any APNM project that hasn't been signed by the publisher.
+~If you're signing yourproject with APNM Studio, the *.keymat will be generated automatically for convinience.
+~If you're signing your project manually, please use this file as a template and attach it to your project's manifest.
+<var publisher>{string
+	value = "JTechMe"
+}
+<var pubcom>{string
+	value = "com.apnm"
+}
